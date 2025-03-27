@@ -86,8 +86,7 @@ public class TicketBooking {
                     System.out.println("Seats Available :" +"Sleeper = "+Train[i].s1 +", Sleeper = "+Train[i].s2+", 3 Tier AC = "+Train[i].b1+", 2 Tier AC = "+Train[i].a1+", First Class = "+Train[i].h1);
                 }
                 else{
-                    System.out.println("Train Not Found");  
-                    
+                    System.out.println("Train Not Found");
                 }
             }
         }
